@@ -1,0 +1,12 @@
+Makefile
+
+README
+MANIFEST
+ChangeLog
+TODO
+KNOWN_BUGS
+
+.gitignore
+
+app.yaml
+g-smith.py

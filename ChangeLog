@@ -1,0 +1,11 @@
+Thu Apr 26 06:55:03 CEST 2012 Jiri Polcar <polcar@physics.muni.cz>
+	* Makefile: created
+	* README: created
+	* MANIFEST: created
+	* TODO: created
+	* KNOWN_BUGS: created
+	* ChangeLog: created
+	* app.yaml: created
+	* g-smith.py: created
+	* .gitignore: created
+
