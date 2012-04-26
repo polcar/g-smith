@@ -1,12 +1,8 @@
 
-syntax: glob
 *.orig
 *.rej
 *.pyc
 tags
 (\/)?cscope.out*
 tmp/*
-no
-
-syntax: regexp
-(\/)?\..*\.sw.$
+.*.sw*
